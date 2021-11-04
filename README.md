@@ -1,4 +1,4 @@
-# Porg2
+# Prog2
 Magas szintű programozási nyelvek 2 project
 ===========================================
 Indulási ötlet
